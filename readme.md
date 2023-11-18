@@ -2,4 +2,4 @@
 
 Crash course for Git
 
-Lolololo
+lol
